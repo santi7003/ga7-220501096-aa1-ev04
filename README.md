@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# EVIDENCIA DE DESEMPEÑO: GA7-220501096-AA1-EV04 INSTALACIÓN Y CONFIGURACIÓN DE HERRAMIENTA DE VERSIONAMIENTO (LOCAL / WEB)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📋 Información del Proyecto
 
-## Available Scripts
+**Programa de Formación:** Análisis y Desarrollo de Software  
+**Proyecto Formativo:** Construcción de software integrador de tecnologías orientadas a servicios  
+**Fase:** Ejecución  
+**Actividad:** GA7-220501096-AA1 - Configurar herramientas de versionamiento para control de código  
+**Evidencia:** GA7-220501096-AA1-EV04 - Instalación y configuración de herramienta de versionamiento (Local / Web)
 
-In the project directory, you can run:
+## 🎯 Resultado de Aprendizaje
 
-### `npm start`
+**220501096-01:** Planear actividades de construcción del software de acuerdo con el diseño establecido
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📝 Descripción
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Este proyecto tiene como objetivo la instalación y configuración de herramientas de versionamiento tanto locales como remotas para el control de cambios en el código fuente. La actividad busca desarrollar competencias en la selección y configuración de sistemas de control de versiones esenciales para el desarrollo de software.
 
-### `npm test`
+## ✅ Criterios de Evaluación
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Selecciona y configura herramientas de versionamiento para el control de cambios en el código.
 
-### `npm run build`
+## 📊 Lista de Chequeo - Variables/Indicadores de Logro
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| No. | Variables/Indicadores de Logro | Porcentaje | Cumple | Observaciones |
+|-----|--------------------------------|------------|---------|---------------|
+| 1 | Realiza la instalación de la herramienta de versionamiento correctamente | 30% | ☑️ SI ☐ NO |  |
+| 2 | Instala sin errores herramienta de versionamiento local | 30% | ☑️ SI ☐ NO |  |
+| 3 | Configura herramienta de versionamiento remota | 30% | ☑️ SI ☐ NO |  |
+| 4 | Presenta el informe cumpliendo con las normas básicas de presentación de documentos | 10% | ☑️ SI ☐ NO |  |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📝 Evaluación
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Observaciones:** _______________________________________________
 
-### `npm run eject`
+**Juicio de valor:** _______________________________________________
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Herramientas Sugeridas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Git** - Sistema de control de versiones distribuido
+- **GitHub/GitLab/Bitbucket** - Plataformas de repositorios remotos
+- **Visual Studio Code** - Editor con integración Git
+- **Sourcetree/GitKraken** - Interfaces gráficas para Git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎯 Objetivos del Proyecto
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. **Instalación de Herramienta de Versionamiento (30%)**
+    - Realizar la instalación correcta de la herramienta de versionamiento seleccionada
+    - Verificar que la instalación se complete sin errores
 
-## Learn More
+2. **Configuración Local (30%)**
+    - Instalar y configurar herramienta de versionamiento en entorno local
+    - Asegurar funcionamiento correcto sin errores de configuración
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. **Configuración Remota (30%)**
+    - Configurar herramienta de versionamiento en entorno remoto/web
+    - Establecer conexión entre repositorio local y remoto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. **Documentación (10%)**
+    - Presentar informe técnico cumpliendo normas básicas de presentación
+    - Incluir evidencias del proceso de instalación y configuración
 
-### Code Splitting
+## 📚 Recursos Adicionales
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Documentación oficial de Git](https://git-scm.com/doc)
+- [Tutorial interactivo de Git](https://learngitbranching.js.org/)
+- [Guía de GitHub](https://guides.github.com/)
 
-### Analyzing the Bundle Size
+## 👥 Autor(es)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[Nombre del estudiante]  
+Programa: Análisis y Desarrollo de Software  
+Institución: [Nombre de la institución]
 
-### Making a Progressive Web App
+## 📅 Fecha de Entrega
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[Fecha según cronograma del curso]
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
